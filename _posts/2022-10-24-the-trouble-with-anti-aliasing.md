@@ -87,6 +87,29 @@ The CIE L\*a\*b\* color space has a perceptional uniform lightness in one axis a
 perceptional uniform color plane. The CIE L\*a\*b\* color space may be a valid color space
 to do anti-aliasing in, but it is computational expensive.
 
+Do: Properly calculate coverage for sub-pixels
+----------------------------------------------
+We sample the signed distance from the center over each sub-pixel.
+Since we only have a distance and not an angle, we measure the coverage
+of a plane and a circle. The SDF measures the plane's edge from the
+centre of the circle, when the signed-distance is negative the
+plane intersects with the centre of the circle, while positive it
+doesn't.
+
+The circle's area should match the area of the pixel which is 1.0 x 1.0 = 1.0,
+this makes: r = sqrt(1/π) = 0.5641895835.
+
+d = signed distance
+
+r = radius of sample circle
+
+x = d / r (-1 <= x <= 1)
+
+f(x) = (1/π) * (acos(x) − x*sqrt(1 - x*x))
+
+
+Perceptional uniform anti-aliasing
+
 Do: Convert coverage to alpha with perceptional compensation
 ------------------------------------------------------------
 Lets try something cheaper.
