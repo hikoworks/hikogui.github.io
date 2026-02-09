@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['r_0',['Paragraph direction R',['../a11665.html#autotoc_md15',1,'']]],
+  ['rate_1',['Clocks and sample rate',['../a11664.html#autotoc_md12',1,'']]],
+  ['read_20a_20chunk_20of_20ascii_20characters_2',['Read a chunk of ASCII characters.',['../a04384.html#autotoc_md4',1,'']]],
+  ['read_20a_20single_20code_20point_3',['Read a single code-point',['../a04384.html#autotoc_md1',1,'']]],
+  ['rectangle_4',['rectangle',['../a11673.html#autotoc_md73',1,'']]],
+  ['rectangles_5',['Drawing rectangles',['../a11675.html#autotoc_md100',1,'']]],
+  ['related_20color_20space_6',['tYUV/tLUV related color space',['../a11670.html#autotoc_md45',1,'']]],
+  ['release_20checklist_7',['Release Checklist',['../a11684.html',1,'']]],
+  ['render_20architecture_8',['Render architecture',['../a11685.html',1,'']]],
+  ['renderdoc_9',['Debugging with RenderDoc',['../a11671.html#autotoc_md60',1,'']]],
+  ['reporting_10',['Information reporting',['../a11681.html',1,'']]],
+  ['representation_11',['Canonical Representation',['../a11666.html#autotoc_md19',1,'']]],
+  ['requests_12',['Pull Requests',['../a11671.html#autotoc_md54',1,'']]],
+  ['requirements_3a_13',['Install requirements:',['../a11682.html#autotoc_md140',1,'']]],
+  ['resolution_20utc_14',['High resolution UTC',['../a11690.html#autotoc_md210',1,'']]],
+  ['return_15',['Return',['../a11688.html#autotoc_md204',1,'']]],
+  ['rich_20text_16',['HikoGUI Rich Text',['../a11686.html',1,'']]],
+  ['rich_20text_20format_17',['Rich Text format',['../a11686.html#autotoc_md167',1,'']]],
+  ['rules_18',['Extra rules',['../a11666.html#autotoc_md18',1,'']]],
+  ['running_20using_20the_20developer_20command_20prompt_19',['Building and running using the &quot;Developer Command Prompt&quot;',['../a11682.html#autotoc_md144',1,'']]],
+  ['running_20using_20the_20developer_20command_20prompt_20with_20vcpkg_20',['Building and running using the &quot;Developer Command Prompt&quot; with vcpkg',['../a11682.html#autotoc_md145',1,'']]],
+  ['running_20with_20microsoft_20visual_20studio_21',['Building and running with &quot;Microsoft Visual Studio&quot;',['../a11682.html#autotoc_md143',1,'']]]
+];

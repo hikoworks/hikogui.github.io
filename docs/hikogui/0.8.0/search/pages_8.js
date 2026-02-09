@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['gcc_20on_20linux_0',['Building with gcc on Linux',['../a11718.html',1,'']]],
+  ['geo_3a_3aextent_1',['geo::extent&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md21',1,'']]],
+  ['geo_3a_3amatrix_2',['geo::matrix&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md30',1,'']]],
+  ['geo_3a_3apoint_3',['geo::point&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md20',1,'']]],
+  ['geo_3a_3arotate_4',['geo::rotate&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md29',1,'']]],
+  ['geo_3a_3ascale_5',['geo::scale&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md28',1,'']]],
+  ['geo_3a_3atransform_6',['geo::transform',['../a02226.html#autotoc_md31',1,'']]],
+  ['geo_3a_3atranslate_7',['geo::translate&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md27',1,'']]],
+  ['geo_3a_3avector_8',['geo::vector&amp;lt;D&amp;gt;',['../a02226.html#autotoc_md19',1,'']]],
+  ['geometry_20type_9',['High level geometry type',['../a02226.html#autotoc_md18',1,'']]],
+  ['geometry_20types_10',['Low level geometry types',['../a02226.html#autotoc_md15',1,'']]],
+  ['getters_20and_20setters_11',['Getters and Setters',['../a11722.html#autotoc_md93',1,'']]],
+  ['github_12',['github',['../a11718.html#autotoc_md73',1,'Clone the HikoGUI project from github'],['../a11719.html#autotoc_md77',1,'Clone the HikoGUI project from github'],['../a11720.html#autotoc_md84',1,'Clone the HikoGUI project from github']]],
+  ['glob_13',['glob',['../a02233.html#autotoc_md49',1,'']]],
+  ['global_20variables_14',['Global variables',['../a11722.html#autotoc_md95',1,'']]],
+  ['glyph_20font_20coordinates_15',['Glyph/Font coordinates',['../a02226.html#autotoc_md37',1,'']]],
+  ['glyph_20lookup_20algorithm_16',['Glyph Lookup algorithm',['../a11735.html#autotoc_md158',1,'']]],
+  ['glyphs_17',['Drawing glyphs',['../a11725.html#autotoc_md113',1,'']]],
+  ['grapheme_20cluster_18',['Grapheme Cluster',['../a11736.html#autotoc_md166',1,'Attributed Grapheme Cluster'],['../a11736.html#autotoc_md164',1,'Grapheme Cluster']]],
+  ['graphic_20cards_19',['Graphic Cards',['../a11724.html#autotoc_md103',1,'']]],
+  ['grid_20widget_20',['Layout using the grid widget',['../a11729.html#autotoc_md138',1,'']]],
+  ['guideline_20checker_20disabled_21',['EspXEngine.dll Core Guideline checker (disabled)',['../a11721.html#autotoc_md88',1,'']]]
+];

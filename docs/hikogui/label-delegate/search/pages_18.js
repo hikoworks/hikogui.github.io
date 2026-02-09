@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['wait_20free_20counting_0',['Wait-free counting',['../a11210.html#autotoc_md135',1,'']]],
+  ['wait_20free_20logging_1',['Wait-free logging',['../a11210.html#autotoc_md133',1,'']]],
+  ['while_20loop_2',['While loop',['../a11222.html#autotoc_md216',1,'']]],
+  ['while_20loop_3',['Do-while loop',['../a11222.html#autotoc_md217',1,'']]],
+  ['widget_4',['Layout using the grid widget',['../a11213.html#autotoc_md153',1,'']]],
+  ['widget_20surface_20coordinates_5',['Window and Widget-surface coordinates',['../a02031.html#autotoc_md36',1,'']]],
+  ['widgets_6',['widgets',['../a11213.html#autotoc_md156',1,'A list of widgets'],['../a11213.html#autotoc_md152',1,'How to add widgets'],['../a11211.html',1,'How to make widgets'],['../a11213.html',1,'How to use widgets']]],
+  ['window_7',['Window',['../a11219.html#autotoc_md170',1,'']]],
+  ['window_20and_20widget_20surface_20coordinates_8',['Window and Widget-surface coordinates',['../a02031.html#autotoc_md36',1,'']]],
+  ['window_20depth_9',['Window depth',['../a02031.html#autotoc_md37',1,'']]],
+  ['windows_10',['Windows',['../a11201.html',1,'Building with MSVC or clang on Windows'],['../a11213.html#autotoc_md151',1,'Creating Windows']]],
+  ['with_20empty_20string_20key_11',['Object with empty string key',['../a11199.html#autotoc_md79',1,'']]],
+  ['with_20five_20strings_12',['Array with five strings',['../a11199.html#autotoc_md76',1,'']]],
+  ['with_20gcc_20on_20linux_13',['Building with gcc on Linux',['../a11200.html',1,'']]],
+  ['with_20msvc_20or_20clang_20on_20windows_14',['Building with MSVC or clang on Windows',['../a11201.html',1,'']]],
+  ['with_20strings_15',['Nested array with strings',['../a11199.html#autotoc_md78',1,'']]],
+  ['with_20two_20integer_20values_16',['A object with two integer values',['../a11199.html#autotoc_md77',1,'']]],
+  ['with_20two_20strings_17',['Array with two strings',['../a11199.html#autotoc_md75',1,'']]],
+  ['with_20visual_20studio_18',['with Visual Studio',['../a11202.html',1,'Building with Visual Studio'],['../a11202.html#autotoc_md93',1,'Just-in-time debugging with Visual Studio']]],
+  ['with_20visual_20studio_20code_19',['Building with Visual Studio Code',['../a11203.html',1,'']]],
+  ['with_20visual_20studio_20code_20devcontainer_20',['Building with Visual Studio Code devcontainer',['../a11204.html',1,'']]],
+  ['write_20a_20chunk_20of_20ascii_20characters_21',['Write a chunk of ASCII characters.',['../a03954.html#autotoc_md5',1,'']]]
+];

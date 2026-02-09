@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['data_20model_0',['Data model',['../a02607.html#autotoc_md128',1,'']]],
+  ['debugging_20with_20visual_20studio_1',['Just-in-time debugging with Visual Studio',['../a02587.html#autotoc_md29',1,'']]],
+  ['decimal_2',['Decimal',['../a02607.html#autotoc_md139',1,'']]],
+  ['delegates_3',['Delegates',['../a02591.html#autotoc_md48',1,'Delegates'],['../a02598.html#autotoc_md91',1,'Delegates']]],
+  ['dependencies_4',['Dependencies',['../a02592.html',1,'']]],
+  ['dependencies_5',['Policy for adding dependencies',['../a02592.html#autotoc_md51',1,'']]],
+  ['devcontainer_6',['Building with Visual Studio Code devcontainer',['../a02589.html',1,'']]],
+  ['developer_20command_20prompt_7',['Building and running using the &quot;x64 Developer Command Prompt&quot;',['../a02587.html#autotoc_md28',1,'']]],
+  ['direction_20l_8',['Paragraph direction L',['../a02583.html#autotoc_md4',1,'']]],
+  ['direction_20r_9',['Paragraph direction R',['../a02583.html#autotoc_md5',1,'']]],
+  ['disabled_10',['disabled',['../a02590.html#autotoc_md38',1,'CodeQL (disabled)'],['../a02590.html#autotoc_md39',1,'EspXEngine.dll Core Guideline checker (disabled)']]],
+  ['dll_20core_20guideline_20checker_20disabled_11',['EspXEngine.dll Core Guideline checker (disabled)',['../a02590.html#autotoc_md39',1,'']]],
+  ['do_20while_20loop_12',['Do-while loop',['../a02607.html#autotoc_md153',1,'']]],
+  ['draw_13',['How to draw',['../a02594.html',1,'']]],
+  ['drawing_14',['Drawing',['../a02596.html#autotoc_md76',1,'']]],
+  ['drawing_15',['drawing',['../index.html#autotoc_md102',1,'Box drawing'],['../index.html#autotoc_md103',1,'Text drawing']]],
+  ['drawing_20circles_16',['Drawing circles',['../a02594.html#autotoc_md61',1,'']]],
+  ['drawing_20glyphs_17',['Drawing glyphs',['../a02594.html#autotoc_md64',1,'']]],
+  ['drawing_20images_18',['Drawing images',['../a02594.html#autotoc_md63',1,'']]],
+  ['drawing_20lines_19',['Drawing lines',['../a02594.html#autotoc_md62',1,'']]],
+  ['drawing_20rectangles_20',['Drawing rectangles',['../a02594.html#autotoc_md60',1,'']]],
+  ['drawing_20shapes_21',['Drawing shapes',['../a02594.html#autotoc_md59',1,'']]],
+  ['drawing_20text_22',['Drawing text',['../a02594.html#autotoc_md65',1,'']]]
+];

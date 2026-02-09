@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['data_20model_0',['Data model',['../a11993.html#autotoc_md178',1,'']]],
+  ['debugging_20with_20visual_20studio_1',['debugging with Visual Studio',['../a11974.html#autotoc_md80',1,'Just-in-time debugging with Visual Studio'],['../a11975.html#autotoc_md86',1,'Just-in-time debugging with Visual Studio']]],
+  ['decimal_2',['Decimal',['../a11993.html#autotoc_md189',1,'']]],
+  ['decoding_3',['PNG decoding',['../a02454.html#autotoc_md7',1,'']]],
+  ['delegates_4',['Delegates',['../a02465.html#autotoc_md52',1,'Delegates'],['../a11977.html#autotoc_md98',1,'Delegates'],['../a11984.html#autotoc_md141',1,'Delegates']]],
+  ['dependencies_5',['Dependencies',['../a11978.html',1,'']]],
+  ['dependencies_6',['Policy for adding dependencies',['../a11978.html#autotoc_md101',1,'']]],
+  ['depth_7',['Window depth',['../a02457.html#autotoc_md37',1,'']]],
+  ['determine_20number_20of_20code_20units_20for_20a_20code_20point_8',['Determine number of code-units for a code-point.',['../a04411.html#autotoc_md2',1,'']]],
+  ['developer_20command_20prompt_9',['Developer Command Prompt',['../a11975.html#autotoc_md85',1,'Building and running using the &quot;Developer Command Prompt&quot;'],['../a11974.html#autotoc_md79',1,'Building and running using the &quot;x64 Developer Command Prompt&quot;']]],
+  ['direction_20l_10',['Paragraph direction L',['../a11971.html#autotoc_md59',1,'']]],
+  ['direction_20r_11',['Paragraph direction R',['../a11971.html#autotoc_md60',1,'']]],
+  ['disabled_12',['disabled',['../a11976.html#autotoc_md88',1,'CodeQL (disabled)'],['../a11976.html#autotoc_md89',1,'EspXEngine.dll Core Guideline checker (disabled)']]],
+  ['dll_20core_20guideline_20checker_20disabled_13',['EspXEngine.dll Core Guideline checker (disabled)',['../a11976.html#autotoc_md89',1,'']]],
+  ['do_20while_20loop_14',['Do-while loop',['../a11993.html#autotoc_md203',1,'']]],
+  ['draw_15',['How to draw',['../a11980.html',1,'']]],
+  ['drawing_16',['Drawing',['../a11982.html#autotoc_md126',1,'']]],
+  ['drawing_17',['drawing',['../index.html#autotoc_md152',1,'Box drawing'],['../index.html#autotoc_md153',1,'Text drawing']]],
+  ['drawing_20circles_18',['Drawing circles',['../a11980.html#autotoc_md111',1,'']]],
+  ['drawing_20glyphs_19',['Drawing glyphs',['../a11980.html#autotoc_md114',1,'']]],
+  ['drawing_20images_20',['Drawing images',['../a11980.html#autotoc_md113',1,'']]],
+  ['drawing_20lines_21',['Drawing lines',['../a11980.html#autotoc_md112',1,'']]],
+  ['drawing_20rectangles_22',['Drawing rectangles',['../a11980.html#autotoc_md110',1,'']]],
+  ['drawing_20shapes_23',['Drawing shapes',['../a11980.html#autotoc_md109',1,'']]],
+  ['drawing_20text_24',['Drawing text',['../a11980.html#autotoc_md115',1,'']]]
+];

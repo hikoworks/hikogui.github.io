@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['phase_5fmask_0',['phase_mask',['../a02227.html#a2a5abb832cfb05b80b70e9520846820ea635c7912b2874bb88c1ebdde57d73ff2',1,'hi::v1']]],
+  ['pixel_5fdensity_1',['pixel_density',['../a02227.html#a09e03c43d3748df351bdaeb61698a8d6acaaac282add4eba0bd347880d01e4bba',1,'hi::v1']]],
+  ['placeholder_2',['placeholder',['../a02216.html#ggae07839df6fa9f849d45ec93658b7165ea6a99c575ab87f8c7d1ed1e52e7e349ce',1,'v1']]]
+];

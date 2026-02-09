@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['packing_0',['Packing',['../a11670.html#autotoc_md52',1,'']]],
+  ['paragraph_20direction_20l_1',['Paragraph direction L',['../a11665.html#autotoc_md14',1,'']]],
+  ['paragraph_20direction_20r_2',['Paragraph direction R',['../a11665.html#autotoc_md15',1,'']]],
+  ['pass_20five_20sub_20passes_3',['Single pass, five sub-passes',['../a11685.html#autotoc_md155',1,'']]],
+  ['passes_4',['Single pass, five sub-passes',['../a11685.html#autotoc_md155',1,'']]],
+  ['path_20coordinates_5',['Path coordinates',['../a11673.html#autotoc_md86',1,'']]],
+  ['performance_6',['Performance',['../index.html#autotoc_md152',1,'']]],
+  ['performance_20continues_20utc_7',['High performance Continues-UTC',['../a11690.html#autotoc_md211',1,'']]],
+  ['phase_20construction_8',['Two phase construction',['../a11669.html#autotoc_md37',1,'']]],
+  ['phrasing_9',['Phrasing',['../a11686.html#autotoc_md166',1,'']]],
+  ['placeholder_10',['Placeholder',['../a11688.html#autotoc_md195',1,'']]],
+  ['placeholders_11',['Escape, Statements and placeholders',['../a11688.html#autotoc_md193',1,'']]],
+  ['png_20decoding_12',['PNG decoding',['../a11670.html#autotoc_md41',1,'']]],
+  ['point_13',['point',['../a04384.html#autotoc_md2',1,'Determine number of code-units for a code-point.'],['../a04384.html#autotoc_md3',1,'Encode a single code-point.'],['../a04384.html#autotoc_md1',1,'Read a single code-point']]],
+  ['policy_20for_20adding_20dependencies_14',['Policy for adding dependencies',['../a11672.html#autotoc_md63',1,'']]],
+  ['preferences_15',['Preferences',['../a11683.html',1,'Application Preferences'],['../a11678.html#autotoc_md125',1,'Preferences']]],
+  ['preferences_16',['How to use preferences',['../a11678.html',1,'']]],
+  ['prefixes_20and_20suffixes_17',['Prefixes and Suffixes',['../a11669.html#autotoc_md33',1,'']]],
+  ['processors_18',['Processors',['../a11674.html#autotoc_md92',1,'']]],
+  ['project_19',['project',['../a11682.html#autotoc_md142',1,'Clone this project'],['../a11671.html',1,'Contributing to the HikoGUI project']]],
+  ['prompt_20',['Building and running using the &quot;Developer Command Prompt&quot;',['../a11682.html#autotoc_md144',1,'']]],
+  ['prompt_20for_20vs_202019_21',['Developer Command Prompt for VS 2019',['../a11671.html#autotoc_md58',1,'']]],
+  ['prompt_20with_20vcpkg_22',['Building and running using the &quot;Developer Command Prompt&quot; with vcpkg',['../a11682.html#autotoc_md145',1,'']]],
+  ['pull_20requests_23',['Pull Requests',['../a11671.html#autotoc_md54',1,'']]]
+];

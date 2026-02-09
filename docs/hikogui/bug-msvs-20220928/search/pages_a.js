@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['gentoo_20linux_0',['Gentoo Linux',['../a11671.html#autotoc_md59',1,'']]],
+  ['geo_3a_3aextent_1',['geo::extent&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md70',1,'']]],
+  ['geo_3a_3aidentity_2',['geo::identity',['../a11673.html#autotoc_md76',1,'']]],
+  ['geo_3a_3amatrix_3',['geo::matrix&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md80',1,'']]],
+  ['geo_3a_3apoint_4',['geo::point&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md69',1,'']]],
+  ['geo_3a_3arotate_5',['geo::rotate&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md79',1,'']]],
+  ['geo_3a_3ascale_6',['geo::scale&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md78',1,'']]],
+  ['geo_3a_3atransform_7',['geo::transform',['../a11673.html#autotoc_md81',1,'']]],
+  ['geo_3a_3atranslate_8',['geo::translate&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md77',1,'']]],
+  ['geo_3a_3avector_9',['geo::vector&amp;lt;D&amp;gt;',['../a11673.html#autotoc_md68',1,'']]],
+  ['geometry_20system_10',['HikoGUI Geometry System',['../a11673.html',1,'']]],
+  ['geometry_20type_11',['High level geometry type',['../a11673.html#autotoc_md67',1,'']]],
+  ['geometry_20types_12',['Low level geometry types',['../a11673.html#autotoc_md64',1,'']]],
+  ['getters_20and_20setters_13',['Getters and Setters',['../a11669.html#autotoc_md34',1,'']]],
+  ['global_20variables_14',['Global variables',['../a11669.html#autotoc_md36',1,'']]],
+  ['glyph_20font_20coordinates_15',['Glyph/Font coordinates',['../a11673.html#autotoc_md87',1,'']]],
+  ['glyph_20lookup_20algorithm_16',['Glyph Lookup algorithm',['../a11685.html#autotoc_md157',1,'']]],
+  ['glyphs_17',['Drawing glyphs',['../a11675.html#autotoc_md104',1,'']]],
+  ['grapheme_20cluster_18',['Grapheme Cluster',['../a11686.html#autotoc_md165',1,'Attributed Grapheme Cluster'],['../a11686.html#autotoc_md163',1,'Grapheme Cluster']]],
+  ['graphic_20cards_19',['Graphic Cards',['../a11674.html#autotoc_md94',1,'']]],
+  ['grid_20widget_20',['Layout using the grid widget',['../a11679.html#autotoc_md129',1,'']]],
+  ['guideline_20checker_20disabled_21',['EspXEngine.dll Core Guideline checker (disabled)',['../a11668.html#autotoc_md29',1,'']]]
+];

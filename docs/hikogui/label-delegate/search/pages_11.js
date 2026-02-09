@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['packing_0',['Packing',['../a02035.html#autotoc_md49',1,'']]],
+  ['paragraph_20direction_20l_1',['Paragraph direction L',['../a11198.html#autotoc_md67',1,'']]],
+  ['paragraph_20direction_20r_2',['Paragraph direction R',['../a11198.html#autotoc_md68',1,'']]],
+  ['pass_20five_20sub_20passes_3',['Single pass, five sub-passes',['../a11219.html#autotoc_md171',1,'']]],
+  ['passes_4',['Single pass, five sub-passes',['../a11219.html#autotoc_md171',1,'']]],
+  ['path_20coordinates_5',['Path coordinates',['../a02031.html#autotoc_md39',1,'']]],
+  ['path_20locations_6',['Path locations',['../a02038.html#autotoc_md51',1,'']]],
+  ['paths_7',['Paths',['../a11206.html#autotoc_md114',1,'']]],
+  ['performance_8',['Performance',['../index.html#autotoc_md168',1,'']]],
+  ['performance_20continues_20utc_9',['High performance Continues-UTC',['../a11224.html#autotoc_md227',1,'']]],
+  ['phase_20construction_10',['Two phase construction',['../a11206.html#autotoc_md111',1,'']]],
+  ['phrasing_11',['Phrasing',['../a11220.html#autotoc_md182',1,'']]],
+  ['pixel_20formats_12',['Pixel formats',['../a02035.html#autotoc_md45',1,'']]],
+  ['placeholder_13',['Placeholder',['../a11222.html#autotoc_md211',1,'']]],
+  ['placeholders_14',['Escape, Statements and placeholders',['../a11222.html#autotoc_md209',1,'']]],
+  ['png_20decoding_15',['PNG decoding',['../a02028.html#autotoc_md7',1,'']]],
+  ['point_16',['point',['../a03954.html#autotoc_md2',1,'Determine number of code-units for a code-point.'],['../a03954.html#autotoc_md3',1,'Encode a single code-point.'],['../a03954.html#autotoc_md1',1,'Read a single code-point']]],
+  ['policy_20for_20adding_20dependencies_17',['Policy for adding dependencies',['../a11207.html#autotoc_md115',1,'']]],
+  ['preferences_18',['Preferences',['../a11217.html',1,'Application Preferences'],['../a11212.html#autotoc_md149',1,'Preferences']]],
+  ['preferences_19',['How to use preferences',['../a11212.html',1,'']]],
+  ['prefixes_20and_20suffixes_20',['Prefixes and Suffixes',['../a11206.html#autotoc_md107',1,'']]],
+  ['prerequisites_21',['Prerequisites',['../a11204.html#autotoc_md99',1,'']]],
+  ['processors_22',['Processors',['../a11208.html#autotoc_md116',1,'']]],
+  ['project_20from_20github_23',['project from github',['../a11200.html#autotoc_md81',1,'Clone the HikoGUI project from github'],['../a11201.html#autotoc_md86',1,'Clone the HikoGUI project from github'],['../a11202.html#autotoc_md90',1,'Clone the HikoGUI project from github'],['../a11203.html#autotoc_md97',1,'Clone the HikoGUI project from github']]],
+  ['prompt_24',['Building and running using the &quot;x64 Developer Command Prompt&quot;',['../a11202.html#autotoc_md92',1,'']]]
+];

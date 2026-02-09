@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['packing_0',['Packing',['../a10989.html#autotoc_md42',1,'']]],
+  ['paragraph_20direction_20l_1',['Paragraph direction L',['../a10984.html#autotoc_md4',1,'']]],
+  ['paragraph_20direction_20r_2',['Paragraph direction R',['../a10984.html#autotoc_md5',1,'']]],
+  ['pass_20five_20sub_20passes_3',['Single pass, five sub-passes',['../a11004.html#autotoc_md144',1,'']]],
+  ['passes_4',['Single pass, five sub-passes',['../a11004.html#autotoc_md144',1,'']]],
+  ['path_20coordinates_5',['Path coordinates',['../a10992.html#autotoc_md76',1,'']]],
+  ['performance_6',['Performance',['../index.html#autotoc_md141',1,'']]],
+  ['performance_20continues_20utc_7',['High performance Continues-UTC',['../a11007.html#autotoc_md188',1,'']]],
+  ['phase_20construction_8',['Two phase construction',['../a10988.html#autotoc_md27',1,'']]],
+  ['placeholder_9',['Placeholder',['../a11005.html#autotoc_md172',1,'']]],
+  ['placeholders_10',['Escape, Statements and placeholders',['../a11005.html#autotoc_md170',1,'']]],
+  ['png_20decoding_11',['PNG decoding',['../a10989.html#autotoc_md31',1,'']]],
+  ['policy_20for_20adding_20dependencies_12',['Policy for adding dependencies',['../a10991.html#autotoc_md53',1,'']]],
+  ['preferences_13',['Preferences',['../a11002.html',1,'Application Preferences'],['../a10997.html#autotoc_md114',1,'Preferences']]],
+  ['preferences_14',['How to use preferences',['../a10997.html',1,'']]],
+  ['prefixes_20and_20suffixes_15',['Prefixes and Suffixes',['../a10988.html#autotoc_md23',1,'']]],
+  ['processors_16',['Processors',['../a10993.html#autotoc_md82',1,'']]],
+  ['project_17',['project',['../a11001.html#autotoc_md131',1,'Clone this project'],['../a10990.html',1,'Contributing to the HikoGUI project']]],
+  ['prompt_20for_20vs_18',['Building and running using the &quot;Developer Command Prompt for VS&quot;',['../a11001.html#autotoc_md134',1,'']]],
+  ['prompt_20for_20vs_202019_19',['Developer Command Prompt for VS 2019',['../a10990.html#autotoc_md48',1,'']]],
+  ['prompt_20for_20vs_20with_20vcpkg_20',['Building and running using the &quot;Developer Command Prompt for VS&quot; with vcpkg',['../a11001.html#autotoc_md135',1,'']]],
+  ['pull_20requests_21',['Pull Requests',['../a10990.html#autotoc_md44',1,'']]]
+];

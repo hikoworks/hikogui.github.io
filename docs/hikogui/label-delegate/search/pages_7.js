@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['f32x4_0',['f32x4',['../a02031.html#autotoc_md20',1,'']]],
+  ['features_1',['Features',['../index.html#autotoc_md165',1,'']]],
+  ['file_20and_20file_20views_2',['File and file-views',['../a02030.html#autotoc_md17',1,'']]],
+  ['file_20views_3',['File and file-views',['../a02030.html#autotoc_md17',1,'']]],
+  ['files_4',['files',['../a11222.html#autotoc_md213',1,'Including files'],['../a02028.html#autotoc_md8',1,'Theme files']]],
+  ['filter_5',['filter',['../a11195.html#autotoc_md62',1,'filter'],['../a11222.html#autotoc_md197',1,'String filter']]],
+  ['five_20strings_6',['Array with five strings',['../a11199.html#autotoc_md76',1,'']]],
+  ['five_20sub_20passes_7',['Single pass, five sub-passes',['../a11219.html#autotoc_md171',1,'']]],
+  ['float_8',['Float',['../a11222.html#autotoc_md204',1,'']]],
+  ['focus_9',['Accepting keyboard focus',['../a11211.html#autotoc_md142',1,'']]],
+  ['font_20coordinates_10',['Glyph/Font coordinates',['../a02031.html#autotoc_md40',1,'']]],
+  ['font_20selection_11',['Font selection',['../a11223.html#autotoc_md223',1,'']]],
+  ['font_20styles_12',['Font Styles',['../a11219.html#autotoc_md178',1,'']]],
+  ['fontbook_20initialization_13',['FontBook initialization',['../a11223.html#autotoc_md222',1,'']]],
+  ['for_20a_20code_20point_14',['Determine number of code-units for a code-point.',['../a03954.html#autotoc_md2',1,'']]],
+  ['for_20adding_20dependencies_15',['Policy for adding dependencies',['../a11207.html#autotoc_md115',1,'']]],
+  ['for_20loop_16',['For loop',['../a11222.html#autotoc_md215',1,'']]],
+  ['format_17',['Rich Text format',['../a11220.html#autotoc_md183',1,'']]],
+  ['formats_18',['Pixel formats',['../a02035.html#autotoc_md45',1,'']]],
+  ['framework_19',['HikoTest Unit Testing Framework',['../a11195.html',1,'']]],
+  ['free_20counting_20',['Wait-free counting',['../a11210.html#autotoc_md135',1,'']]],
+  ['free_20logging_21',['Wait-free logging',['../a11210.html#autotoc_md133',1,'']]],
+  ['from_20github_22',['from github',['../a11200.html#autotoc_md81',1,'Clone the HikoGUI project from github'],['../a11201.html#autotoc_md86',1,'Clone the HikoGUI project from github'],['../a11202.html#autotoc_md90',1,'Clone the HikoGUI project from github'],['../a11203.html#autotoc_md97',1,'Clone the HikoGUI project from github']]],
+  ['function_23',['Function',['../a11222.html#autotoc_md219',1,'']]],
+  ['function_20call_24',['Function call',['../a11222.html#autotoc_md196',1,'']]]
+];

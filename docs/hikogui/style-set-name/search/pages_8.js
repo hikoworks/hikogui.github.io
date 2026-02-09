@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['gcc_20on_20linux_0',['Building with gcc on Linux',['../a13782.html',1,'']]],
+  ['geo_3a_3aextent_1',['geo::extent&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md23',1,'']]],
+  ['geo_3a_3amatrix_2',['geo::matrix&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md32',1,'']]],
+  ['geo_3a_3apoint_3',['geo::point&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md22',1,'']]],
+  ['geo_3a_3arotate_4',['geo::rotate&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md31',1,'']]],
+  ['geo_3a_3ascale_5',['geo::scale&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md30',1,'']]],
+  ['geo_3a_3atransform_6',['geo::transform',['../a02208.html#autotoc_md33',1,'']]],
+  ['geo_3a_3atranslate_7',['geo::translate&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md29',1,'']]],
+  ['geo_3a_3avector_8',['geo::vector&amp;lt;D&amp;gt;',['../a02208.html#autotoc_md21',1,'']]],
+  ['geometry_20type_9',['High level geometry type',['../a02208.html#autotoc_md20',1,'']]],
+  ['geometry_20types_10',['Low level geometry types',['../a02208.html#autotoc_md17',1,'']]],
+  ['getters_20and_20setters_11',['Getters and Setters',['../a13788.html#autotoc_md102',1,'']]],
+  ['github_12',['github',['../a13782.html#autotoc_md75',1,'Clone the HikoGUI project from github'],['../a13783.html#autotoc_md80',1,'Clone the HikoGUI project from github'],['../a13784.html#autotoc_md84',1,'Clone the HikoGUI project from github'],['../a13785.html#autotoc_md91',1,'Clone the HikoGUI project from github']]],
+  ['glob_13',['glob',['../a02215.html#autotoc_md51',1,'']]],
+  ['global_20variables_14',['Global variables',['../a13788.html#autotoc_md104',1,'']]],
+  ['glyph_20font_20coordinates_15',['Glyph/Font coordinates',['../a02208.html#autotoc_md39',1,'']]],
+  ['glyph_20lookup_20algorithm_16',['Glyph Lookup algorithm',['../a13801.html#autotoc_md167',1,'']]],
+  ['glyphs_17',['Drawing glyphs',['../a13791.html#autotoc_md122',1,'']]],
+  ['grapheme_20cluster_18',['Grapheme Cluster',['../a13802.html#autotoc_md175',1,'Attributed Grapheme Cluster'],['../a13802.html#autotoc_md173',1,'Grapheme Cluster']]],
+  ['graphic_20cards_19',['Graphic Cards',['../a13790.html#autotoc_md112',1,'']]],
+  ['grid_20widget_20',['Layout using the grid widget',['../a13795.html#autotoc_md147',1,'']]],
+  ['guideline_20checker_20disabled_21',['EspXEngine.dll Core Guideline checker (disabled)',['../a13787.html#autotoc_md97',1,'']]]
+];
